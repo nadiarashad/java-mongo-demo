@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+	"pivotal.vscode-boot-dev-pack",
+	"vscjava.vscode-java-pack",
+	"redhat.vscode-xml",
+	"sonarsource.sonarlint-vscode",
+	"gabrielbb.vscode-lombok",
+	"dbaeumer.vscode-eslint",
+	"esbenp.prettier-vscode",
+	"shengchen.vscode-checkstyle",
+  ]
+}
